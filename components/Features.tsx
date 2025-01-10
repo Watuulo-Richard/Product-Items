@@ -9,7 +9,7 @@ export default function Features() {
              <div className="container flex flex-col mx-auto space-y-12 md:space-y-0 md:flex-row">
                 {/* <!-- What's Different --> */}
                  <div className="flex flex-col space-y-12 justify-center text-center md:w-1/2 md:justify-start md:text-start">
-                    <h1 className="text-3xl font-bold">What's different about manage?</h1>
+                    <h1 className="text-3xl font-bold">What`&apos;`s different about manage?</h1>
                     <p className="text-darkGrayishBlue">Mana provides all the functionality your team needs, without the complexity. Our software is tailor-made for modern digital product teams</p>
                  </div>
                 {/* <!-- Numbered List --> */}

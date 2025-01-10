@@ -10,7 +10,7 @@ export default function Card() {
            <section id="testimonials" className="px-12">
             {/* <!-- Container to heading and testimonial blocks --> */}
              {/* <!-- Heading --> */}
-             <h2 className="text-center text-4xl font-bold my-4">What's Different About Manage?</h2>
+             <h2 className="text-center text-4xl font-bold my-4">What`&apos;`s Different About Manage?</h2>
                 <div className="max-w-6xl mx-auto flex flex-col space-y-6 md:flex-row md:space-x-6">
                     {/* <!-- Testimonial Container --> */}
                      <div className="flex flex-col my-6 md:flex-row md:space-x-6"></div>
@@ -22,7 +22,7 @@ export default function Card() {
                         <div className="testimonial-text text-center">
                             <h5 className="text-lg font-bold">Richard</h5>
                             <p className="text-sm text-darkGrayishBlue">
-                                "Manage has supercharged our team's workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated."
+                            &quot;Manage has supercharged our team`&apos;`s workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.&quot;
                             </p>
                         </div>
                       </div>
@@ -35,7 +35,7 @@ export default function Card() {
                         <div className="testimonial-text text-center">
                             <h5 className="text-lg font-bold">Anisha</h5>
                             <p className="text-sm text-darkGrayishBlue">
-                                "Manage has supercharged our team's workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated."
+                            `&quot;`Manage has supercharged our team`&apos;`s workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.`&quot;`
                             </p>
                         </div>
                       </div>
@@ -48,7 +48,7 @@ export default function Card() {
                         <div className="testimonial-text text-center">
                             <h5 className="text-lg font-bold">Ali Bravo</h5>
                             <p className="text-sm text-darkGrayishBlue">
-                                "We have been able to cancel so many other subscriptions since Manage. There is no more cross-channel confusion and everyone is much more focused."
+                            `&quot;`We have been able to cancel so many other subscriptions since Manage. There is no more cross-channel confusion and everyone is much more focused.`&quot;`
                             </p>
                         </div>
                       </div>
