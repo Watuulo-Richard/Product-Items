@@ -8,7 +8,7 @@ export default function Cta() {
             {/* <!-- Flex-Container --> */}
             <div className="container flex flex-col items-center justify-between px-6 mx-auto space-y-12 md:py-12 md:flex-row md:space-y-0">
                 <h3 className="text-3xl font-bold text-brightRedSupLight">Simplify how your team works today</h3>
-                <a href="" className="hidden md:block py-3 px-6 text-white bg-brightRed rounded-full hover:bg-brightRedLight">Get Started</a>
+                <a href="" className="py-3 px-6 text-brightRed font-bold bg-brightRedSupLight rounded-full hover:bg-brightRedLight">Get Started</a>
             </div>
            </section>
     </div>
